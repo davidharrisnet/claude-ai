@@ -1,1 +1,3 @@
-# claudeai
+# CLAUDEAI
+
+## Training Notes and Artifacts
